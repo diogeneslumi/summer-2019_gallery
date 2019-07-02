@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css?family=Advent+Pro|Amatic+SC|Monoton&display=swap');
+
+body {
+    
+    display: inline-block;
+    background-image: url(../images/webpage-bg.jpg);
+    background-size: cover;
+
+}
+
+li {
+    font-family: 'Monoton', cursive;
+    font-size: 60px;
+    color: black;
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+div,
+h1 {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 48px;
+    color: #3F4142;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+a {
+    font-family: 'Monoton', cursive;
+    font-size: 60px;
+    color: #3F4142;
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+#tex {
+    color: #8966FF;
+}
+
+#cul {
+    color: #FF9529;
+}
+
+#an {
+    color: #00B61A;
+}
+
+div #texture {
+    font-family: 'Amatic SC', cursive;
+    color: #8966FF;
+    text-decoration: overline;
+    text-align: center;
+    font-size: 80px;
+    margin: 0 auto;
+}
+
+div #culture {
+    color: #FF9529;
+    text-decoration: overline;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 80px;
+}
+
+div #animals {
+    color: #00B61A;
+    text-decoration: overline;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 80px;
+}
+
+#texture-one {
+    width: 275px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+#texture-two {
+    width: 350px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-three {
+    width: 250px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-four {
+    width: 400px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+#texture-five {
+    width: 652px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-six {
+    width: 652px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-seven {
+    width: 503px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-eight {
+    width: 282px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-nine {
+    width: 503px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-ten {
+    width: 302px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+#texture-eleven {
+    width: 493px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texture-twelve {
+    width: 493px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+
+#culture-one {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-two {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-three {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-four {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-five {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-six {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-seven {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-eight {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#culture-nine {
+    width: 425px;
+    height: 350px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+
+#animal-one {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-two {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-three {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-four {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-five {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-six {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-seven {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-eight {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#animal-nine {
+    width: 425px;
+    height: 650px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,47 @@
+Color choices: I added the same background from Project 3 but at this time I am using the image itself to write on, instead of putting white background on main content.
+For each gallery link a different color, purple-blueish, orange and green. Colors picked according to the layout of the galleries.
+
+• Main Page 
+
+color HEAD #3F4142; 
+color TEXTURE #8966FF;
+color CULTURES #FF9529;
+color ANIMALS #00B61A;
+
+font HEAD: 'Advent Pro'
+font TEXTURE, CULTURES, ANIMALS: 'Monoton'
+
+
+• Texture Page
+
+font-family: 'Amatic SC', cursive;
+color: #8966FF;
+
+• Culture Page
+  
+ font-family: 'Amatic SC', cursive;
+ color: #FF9529;
+
+• Animals Page
+ font-family: 'Amatic SC', cursive;
+ color: #00B61A;
+
+
+• 3 Gallery Websites
+
+- https://www.pexels.com
+
+  I think Pexels.com is a great open source website of images in high quality and makes it more interesting because a lot of photographers upload their photos there and they are usually very creative.
+The downside would be the ads in the middle of the page when you are scrolling down and find a great image, when clicked it’s a profile selling them!
+
+
+- https://www.pinterest.com
+
+  For years I have been using Pinterest to find inspirations for haircuts, home design and cute llamas. I like the way images are placed, sorta randomly. I used to love the website! Nowadays I feel lost there, too much information, bunch of ads and not-so-cool recommendations for my personal taste.
+
+
+
+- hhttps://unsplash.com/
+
+  Minimalist website get my attention easily and this one is indeed very simple and clean. I did not find a downside yet but I will keep you updated! 
+
